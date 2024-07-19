@@ -1,4 +1,6 @@
 // pid-j.github.io/universal-script-kit/games/cookie-clicker.js - Get infinite cookies, most achievements, and most upgrades
+console.log("%cHello from pid-j!\n%cUniversal script kit - Cookie Clicker", "font-size: 24px; color: orange;", "");
+
 Game.cookies = Infinity;
 Game.lumps = Infinity;
 
